@@ -3,7 +3,6 @@
     "name": "expense",
     "slug": "expense",
     "version": "1.0.0",
-    "scheme": "myapp"
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -29,9 +28,6 @@
     },
     "plugins": [
       "expo-router"
-    ],
-    "experiments": {
-      "typedRoutes": true
-    }
+    ]
   }
 }
